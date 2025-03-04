@@ -66,3 +66,30 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+De novembre 2023 à janvier 2024, j’ai eu l’opportunité de travailler sur une application web de boîte à suggestions destinée aux étudiants de l’IUT-FV de Bandjoun, Cameroun. Ce projet avait pour but de permettre aux étudiants d’exprimer leurs suggestions, plaintes et signalements de manière anonyme, afin d’améliorer la vie sur le campus.
+
+Objectif du projet
+Créer un espace numérique sécurisé et anonyme où les étudiants peuvent partager leurs idées d’amélioration, signaler des problèmes ou exprimer des préoccupations concernant l’environnement universitaire.
+
+Principales fonctionnalités
+✔️ Système d’authentification sécurisé pour les étudiants
+✔️ Génération automatique de noms d’utilisateurs anonymes
+✔️ Système de likes et de commentaires sur les publications (suggestions, plaintes, signalements)
+✔️ Modération automatique basée sur l’IA pour filtrer les contenus inappropriés
+✔️ Classement intelligent des suggestions selon leur pertinence
+✔️ Et bien d’autres fonctionnalités visant à optimiser l’expérience des utilisateurs
+
+Technologies utilisées
+🛠 Backend : PHP (Laravel)
+🗄 Base de données : MySQL
+📌 Modélisation : UML
+
+Mon rôle dans le projet
+Gestion et coordination du projet
+Développement de plusieurs fonctionnalités clés, notamment :
+Système d’authentification sécurisé
+Modération des contenus avec l’IA
+Système de likes et de commentaires
+Participation au développement des autres fonctionnalités
+Ce projet a été un succès, offrant aux étudiants une plateforme moderne et sécurisée pour s’exprimer librement. Il m’a permis d’améliorer mes compétences en gestion de projet, développement backend et intelligence artificielle appliquée à la modération de contenu.
